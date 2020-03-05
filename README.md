@@ -1,2 +1,2 @@
 # hello-world
-Learning GithHb
+Learning GitHub
